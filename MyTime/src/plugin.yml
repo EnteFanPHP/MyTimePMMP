@@ -1,0 +1,10 @@
+---
+name: MyTime
+version: 0.0.1
+main: EnteFan\Main
+api: 3.20.1
+
+commands:
+ mytime:
+  description: "Shows your date data"
+...
