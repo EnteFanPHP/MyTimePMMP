@@ -18,7 +18,5 @@ class Main extends PluginBase{
       $sender->sendMessage("Today is the: ". $date);
     }
     return true;
-  }
-  
-  
+  } 
 }
